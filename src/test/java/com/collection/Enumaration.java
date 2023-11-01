@@ -23,7 +23,6 @@ public class Enumaration {
 			System.out.println(ne);
 		}
 		
-		
 	}
 
 }
